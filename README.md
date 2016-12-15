@@ -1,0 +1,1 @@
+Budget app based on the JavaScript knowledge.
